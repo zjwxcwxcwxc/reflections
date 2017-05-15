@@ -1,1 +1,3 @@
 Now that I've created my GitHub account and pushed one sample repository named "reflections", I'm now tring to push this single txt file into GitHub.
+
+Test the latest version of Chrome to see if it's useful.
