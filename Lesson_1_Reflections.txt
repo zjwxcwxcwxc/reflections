@@ -1,0 +1,11 @@
+20170514
+I'm using git as a version-control software to help me handle coding.
+
+I've already learned how to use git commands including basic ones, such as:
+git clone
+git log
+git diff
+git checkout
+
+20170515
+Today I'm learning how to initialize my own git repository.

@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Git will automatically create an empty folder named ".git". I need to init to set up the framework of version-controlling.
