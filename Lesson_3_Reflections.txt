@@ -1,0 +1,1 @@
+Now that I've created my GitHub account and pushed one sample repository named "reflections", I'm now tring to push this single txt file into GitHub.
